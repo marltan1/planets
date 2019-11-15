@@ -1,3 +1,4 @@
 *.dat
+#!a.dat ignore everything except
 results/
 data/
